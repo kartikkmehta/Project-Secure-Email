@@ -1,10 +1,3 @@
-# Project-Secure-Email
-**API Key Configuration**
-To use this project, you need to configure API keys for Twilio and SendGrid.
-
-Twilio: Sign up for a Twilio account and obtain your API keys.
-SendGrid: Sign up for a SendGrid account and obtain your API key.
-Please add these keys to your environment variables for the application to work correctly.
 
 **Secure Email**
 
